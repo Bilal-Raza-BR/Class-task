@@ -102,8 +102,7 @@ font-weight: lighter;
 }
 .btn{
     
-    background: rgb(214,85,147);
-    background: linear-gradient(90deg, rgba(214,85,147,1) 57%, rgba(230,156,19,1) 91%);
+    background: linear-gradient(90deg, rgb(230, 6, 114) 57%, rgb(241, 161, 11) 91%);
 width: 200px;
 padding: 2px;
 margin: auto;
